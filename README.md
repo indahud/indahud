@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there
 
-<!--
-**indahud/indahud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Developer, Designer and Security Guy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        Open for remote or freelance Developement/Design/Security jobs.
+
+- Backend: NodeJS, Express, REST API
+- Frontend: Angular, React(still learning)JavaScript, HTML, CSS, Bootstrap
+- Database: MonogoDB, MySQL
+- Designing: Adobe Illustrator, Figma
+- OS: Arch and Debian based Linux distributions
+- Misc: Amazon AWS, Git, Web Application Pentesting
+- Reach Me: twitter.com/indie_h4cker
+- Fun fact: I watch lot of crime genre movies
