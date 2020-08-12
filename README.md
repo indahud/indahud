@@ -11,5 +11,5 @@
 - Designing: Adobe Illustrator, Figma
 - OS: Arch and Debian based Linux distributions
 - Misc: Amazon AWS, Git, Web Application Pentesting
-- Reach Me: (twitter.com/indie_h4cker)
+- Reach Me: [twitter.com/indie_h4cker](twitter.com/indie_h4cker)
 - Fun fact: I watch lot of crime genre movies
