@@ -6,7 +6,7 @@
         Open for remote or freelance Developement/Design/Security jobs.
 
 - Backend: NodeJS, Express, REST API
-- Frontend: Angular, React(still learning)JavaScript, HTML, CSS, Bootstrap
+- Frontend: Angular, ReactJS, JavaScript, HTML, CSS, Bootstrap
 - Database: MonogoDB, MySQL
 - Designing: Adobe Illustrator, Figma
 - OS: Arch and Debian based Linux distributions
