@@ -3,7 +3,7 @@
 
 ### Developer, Designer and Security Guy
 
-        Open for remote or freelance Developement/Design/Security jobs.
+        Open for remote Developement jobs.
 
 - Backend: NodeJS, Express, REST API
 - Frontend: Angular, ReactJS, JavaScript, HTML, CSS, Bootstrap
