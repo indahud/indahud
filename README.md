@@ -4,12 +4,12 @@
 ### Developer, Designer and Security Guy
 
         Open for remote Developement jobs.
-
-- Backend: NodeJS, Express, REST API
-- Frontend: Angular, ReactJS, JavaScript, HTML, CSS, Bootstrap
+- JS Frameworks: Express, ReactJS, NextJS, Angular 
+- Databases: MySQL, MongoDB
+- Programming Languages:  JavaScript, Python, NodeJS, C
 - Database: MonogoDB, MySQL
-- Designing: Adobe Illustrator, Figma
+- CSS libraries: Bootstrap, Tailwind CSS
+- Designing Tools: Adobe Illustrator, Figma
 - OS: Arch and Debian based Linux distributions
 - Misc: Amazon AWS, Git, Web Application Pentesting
-- Reach Me: [twitter.com/indie_h4cker](twitter.com/indie_h4cker)
-- Fun fact: I watch lot of crime genre movies
+- Reach Me: [https://twitter.com/failsafem0de](https://twitter.com/failsafem0de)
