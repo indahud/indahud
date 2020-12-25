@@ -12,4 +12,4 @@
 - Designing Tools: Adobe Illustrator, Figma
 - OS: Arch and Debian based Linux distributions
 - Misc: Amazon AWS, Git, Web Application Pentesting
-- Reach Me: [https://twitter.com/failsafem0de](https://twitter.com/failsafem0de)
+- Reach Me: [twitter](https://twitter.com/failsafem0de)
