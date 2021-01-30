@@ -1,4 +1,4 @@
-### Hi ✋✋, I'm Sanket
+### Hi ✋, I'm Sanket
 
 ---
 ## Full Stack Developer
