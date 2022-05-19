@@ -5,9 +5,9 @@
 
 🧪 JS Frameworks: Express, ReactJS, NextJS, Angular 
 
-📚 Database and tools: MySQL, MongoDB, Prisma, Mongoose
+📚 Database: MongoDB, PostgreSQL, MySQL
 
-📝 Programming Languages: JavaScript,NodeJS, Python
+📝 Programming Languages: JavaScript,NodeJS, Python, Bash
 
 🎨 CSS libraries: Tailwind CSS, Bootstrap 
 
@@ -15,11 +15,9 @@
 
 💻 OS: Arch and Debian based Linux distributions
 
-🎊 Misc: Amazon AWS, Git, Web Application Pentesting
+🎊 Misc: Amazon AWS, Git, Web Application Pentesting, Docker
 
 ---
 ## Connect with me: 
-
-[Twitter](https://twitter.com/failsafem0de)
 
 [LinkedIn](https://www.linkedin.com/in/sanket-shete-15064318b)
