@@ -30,4 +30,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="php" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-plain-wordmark.svg" alt="php" width="50" height="50"/>
 </p>
-
+<h2>You can see my projects here 👇</h2>
+<a href="https://github.com/indahud/Projects">Projects</a>
